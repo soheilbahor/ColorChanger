@@ -14,7 +14,3 @@ function changer (){
         document.querySelector('h1').style.color = 'red';
     }
 };
-    // let esm = ['ali','vali','beli']
-    // let fmli = ['khhar','khi','asb']
-    // let result = [...esm,...fmli]
-    // console.log(result)
